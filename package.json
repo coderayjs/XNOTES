@@ -1,6 +1,8 @@
 
 {
   "name": "xnotes",
+
+  "name": "Xnote",
   "version": "1.0.0",
   "description": "xnote Ticket application for selling companies",
   "main": "index.js",
