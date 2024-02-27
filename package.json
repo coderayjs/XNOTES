@@ -1,0 +1,21 @@
+
+{
+  "name": "Xnote application",
+  "version": "1.0.0",
+  "description": "xnote Ticket application for selling companies",
+  "main": "index.js",
+  "scripts": {
+  "start": "node server",
+  "dev":  "nodemon server"
+
+  },
+    "keywords": ["noteapp"],
+    "author": "coderay",
+    "license": "ISC",
+      "dependencies": {
+        "express": "^4.18.2"
+      },
+      "devDependencies": {
+        "nodemon": "^3.1.0"
+      }
+}
