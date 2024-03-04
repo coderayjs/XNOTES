@@ -1,8 +1,6 @@
 
 {
-  "name": "xnotes",
-
-  "name": "Xnote",
+  "name": "xnote",
   "version": "1.0.0",
   "description": "xnote Ticket application for selling companies",
   "main": "index.js",
@@ -21,3 +19,5 @@
         "nodemon": "^3.1.0"
       }
 }
+
+

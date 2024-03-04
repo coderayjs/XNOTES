@@ -6,6 +6,8 @@ const PORT = process.env.PORT || 3500
 
 
 app.use('/', express.static(path.join(__dirname, '/public')));
+
+app.use('/', require('./routes/root.js'))
 app.listen(PORT, () => console.log(`server is running on port ${PORT}`))
 
 
